@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println(" Encore une ligne pour voir ce que ça donne ");
         /// avec un petit commentaire pour voir si ça passe
         System.out.println(" Amusons nous encore un peu ");
+        System.out.println(" cela ressemble presque à du tchat! ");
     }
 }
