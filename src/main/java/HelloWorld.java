@@ -6,5 +6,6 @@ public class HelloWorld {
         /// avec un petit commentaire pour voir si ça passe
         System.out.println(" Amusons nous encore un peu ");
         System.out.println(" cela ressemble presque à du tchat! ");
+        // Cette modification sera-t-elle uniquement pour la branche 011018
     }
 }
