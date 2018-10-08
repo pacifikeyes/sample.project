@@ -11,5 +11,7 @@ public class HelloWorld {
         // On teste encore
         System.out.println(" Un dernier test ");
         System.out.println(" Un dernier test 2");
+        //Synchronisation à tester
+        // Le 8/10/18
     }
 }
